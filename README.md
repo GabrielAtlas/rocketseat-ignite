@@ -5,7 +5,6 @@
   <img alt="" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" src="https://www.rocketseat.com.br/_next/static/media/javascript.0a950835.svg" style="color: transparent;">
   <img alt="" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" src="https://www.rocketseat.com.br/_next/static/media/reactjs.86fa900a.svg" style="color: transparent;">
   <img alt="" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" src="https://www.rocketseat.com.br/_next/static/media/nodejs.8bfdcfcb.svg" style="color: transparent;">
-  <img alt="" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" src="https://www.rocketseat.com.br/_next/static/media/nodejs.8bfdcfcb.svg" style="color: transparent;">
   <img alt="" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" src="https://www.rocketseat.com.br/_next/static/media/react-native.d924f052.svg" style="color: transparent;">
   <img alt="" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" src="https://www.rocketseat.com.br/_next/static/media/typescript.d7be7be8.svg" style="color: transparent;">
   <img alt="" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" src="https://www.rocketseat.com.br/_next/static/media/tailwindcss.e356de81.svg" style="color: transparent;">
