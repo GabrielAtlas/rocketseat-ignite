@@ -1,3 +1,16 @@
+![Logo Rocket](https://app.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat-logo.svg&w=640&q=75)
+<p align="center">
+  <img alt="" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" src="/_next/static/media/html.8776a9f4.svg" style="color: transparent;">
+  <img alt="" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" src="/_next/static/media/css.69c1dc90.svg" style="color: transparent;">
+  <img alt="" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" src="/_next/static/media/javascript.0a950835.svg" style="color: transparent;">
+  <img alt="" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" src="/_next/static/media/reactjs.86fa900a.svg" style="color: transparent;">
+  <img alt="" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" src="/_next/static/media/nodejs.8bfdcfcb.svg" style="color: transparent;">
+  <img alt="" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" src="/_next/static/media/nodejs.8bfdcfcb.svg" style="color: transparent;">
+  <img alt="" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" src="/_next/static/media/react-native.d924f052.svg" style="color: transparent;">
+  <img alt="" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" src="/_next/static/media/typescript.d7be7be8.svg" style="color: transparent;">
+  <img alt="" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" src="/_next/static/media/tailwindcss.e356de81.svg" style="color: transparent;">
+</p>
+
 # Rocketseat Ignite + Plus Learning Tracks Repository
 
 Este repositório abriga todos os projetos e materiais relacionados às trilhas de formação oferecidas pela Rocketseat Ignite + Plus. As trilhas de formação abrangem uma variedade de tecnologias essenciais para desenvolvimento web e móvel, incluindo NodeJS, ReactJS, React Native, NextJS, Java, NLW (Next Level Week) e outros.
