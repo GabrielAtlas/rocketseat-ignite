@@ -28,6 +28,10 @@ Aqui estão as trilhas de formação disponíveis neste repositório:
 
 Este repositório contém materiais de estudo, projetos práticos e recursos para cada trilha de formação. Para acessar os materiais de uma trilha específica, navegue até o diretório correspondente.
 
+## Links Úteis
+
+- [Notion - Minhas Anotações Rocketseat](https://www.notion.so/Anota-es-Rocketseat-248de164b5fa4ebbbc12178be0b945dc?pvs=4): Este link leva você às anotações que eu fiz durante a minha jornada no curso em todas as trilhas de formação.
+
 ## Contribuição
 
 Contribuições são bem-vindas! Se você deseja sugerir melhorias nos materiais existentes, adicionar novos recursos ou compartilhar seu próprio conhecimento, sinta-se à vontade para enviar um pull request.
