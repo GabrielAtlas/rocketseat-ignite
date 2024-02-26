@@ -16,7 +16,7 @@ Este repositório abriga todos os projetos e materiais relacionados às trilhas 
 
 ## Sobre Rocketseat Ignite + Plus
 
-O Rocketseat Ignite + Plus é um programa educacional abrangente oferecido pela Rocketseat, uma plataforma líder de educação em tecnologia. O programa é projetado para proporcionar aos alunos uma imersão completa em tecnologias-chave e frameworks utilizados no desenvolvimento moderno de software.
+O Rocketseat Ignite + Plus é um programa educacional abrangente vendido pela Rocketseat, uma plataforma líder de educação em tecnologia. O programa é projetado para proporcionar aos alunos uma imersão completa em tecnologias-chave e frameworks utilizados no desenvolvimento moderno de software.
 
 ## Trilhas de Formação
 
